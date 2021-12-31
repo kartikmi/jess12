@@ -1,0 +1,5 @@
+{
+	"ip":"kartikmi14.aternos.me",
+	"port": "40320",
+	"name": "jess12"
+}
